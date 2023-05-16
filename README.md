@@ -1,7 +1,7 @@
 # Text-Based-Game-Cpp
 
 ## Description
-This is a text-based combat game where you play as a character battling different enemies. The objective of the game is to defeat all enemies and earn points. As you progress, enemies will become stronger and harder to defeat. You can use different attack moves to defeat enemies, and you have a shield to defend yourself. After each battle, your shield will be restored, and your stats will improved.
+This is a text-based combat game where you play as a character battling different enemies. The objective of the game is to defeat all enemies and earn points. As you progress, enemies will become stronger and harder to defeat. You can use different attack moves to defeat enemies, and you have a shield to defend yourself. After each battle, your shield will be restored, and your stats will improve.
 
 ## Technologies Used
 This project is implemented in C++, and it runs on the console. The project uses the following libraries:
@@ -29,4 +29,6 @@ You can either download the Executable file, or
 9. The game will continue until you defeat all 10 enemies.
 
 ## Code Overview
+The code was recently improved. By comparing the initial commit to the most recent commit you can track my progress as a developer :) 
+
 The code consists of two classes, Player and Enemy. The Player class has properties for health, mana, attack, shield, maxShield, maxHealth, maxMana, usingShield, and points. The Enemy class has properties for health, attack, and points. The code also has functions for attacking, defending, and checking if the enemy is dead. The game is played on the console, and the user interacts with the game by entering numbers and pressing Enter.
